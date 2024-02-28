@@ -16,3 +16,6 @@ step 6 : with the help of the sed operation replace certain texts in "template/i
 step 7: Just as step 5, modify a copy of  "template/submit_array_jobs.sh" and write the resulting to "submit_array_jobs.sh" in the orientation's directory
 
 step 8 : repeat steps 4 to 7 for the next oreintation iter
+
+
+N:B: For simpliicty, submitt_array.sh and other referenced files were not attached to this repository
