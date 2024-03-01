@@ -18,4 +18,4 @@ step 7: Just as step 5, modify a copy of  "template/submit_array_jobs.sh" and wr
 step 8 : repeat steps 4 to 7 for the next oreintation iter
 
 
-N:B: For simplicty, submitt_array_jobs.sh and other referenced files were not attached to this repository
+N:B: For simplicty, submitt_array_jobs.sh and other referenced files were not attached to this repository. so expect error messages that relates to absence of such files.
